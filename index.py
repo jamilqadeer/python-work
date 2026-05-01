@@ -1,4 +1,15 @@
-first=int(input("enter first:"))
-second=int(input("enter second:"))
-print("sum=",first + second)
+num=int(input("enter the number"))
+rem = num % 2
+if(rem==0):
+    print("even")
+else:
+    print("odd")
+
+
+
+
+
+
+
+
 
